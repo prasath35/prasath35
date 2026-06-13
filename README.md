@@ -147,7 +147,7 @@ public class Prasath {
 |--|-------------|---------|
 | 🏅 | CodeChef Java Programming Certification | Completed & verified |
 | 📜 | Data Structures & Algorithms Certification | Completed & verified |
-| 💡 | LeetCode DSA Grind | **250+ problems** solved in Java |
+| 💡 | LeetCode DSA Grind | **180+ problems** solved in Java |
 | 🎓 | Strong Academic Performance | CGPA **7.99 / 10** — ongoing B.E. ECE |
 
 </div>
