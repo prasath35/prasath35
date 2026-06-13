@@ -9,8 +9,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prasath35&label=Profile+Views&color=00FF88&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/prasath-s">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/prasath-s-9b5b89299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasath%20S-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/">
@@ -196,4 +196,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=fadeIn" width="100%"/>****
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=fadeIn" width="100%"/>
