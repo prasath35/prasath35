@@ -22,47 +22,13 @@
   </a>
 </div>
 
-<br/>
-
 ---
+
+## 👨‍💻 About Me
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```java
-public class Prasath {
-
-    String  name     = "Prasath S";
-    String  role     = "Aspiring Full-Stack Software Engineer";
-    String  location = "Madurai, Tamil Nadu, India";
-    String  os       = "Windows 11";
-    String  ide      = "IntelliJ IDEA + VS Code";
-
-    String[] stack = {
-        "Java", "Spring Boot",
-        "JavaScript", "React.js",
-        "Node.js", "Express.js",
-        "MongoDB", "SQL", "Python"
-    };
-
-    String[] aiTools = {
-        "GitHub Copilot", "Gemini AI"
-    };
-
-    String[] currentlyLearning = {
-        "System Design",
-        "Microservices & Spring Cloud",
-        "Docker & Kubernetes",
-        "AWS Cloud Fundamentals"
-    };
-
-    String funFact =
-        "I reach for System.out.println() before debugger 😅";
-
-    String motto() {
-        return "⚡ Build fast. Break things. Learn always.";
-    }
-}
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=400&color=00FF88&width=480&lines=name+%3D+%22Prasath+S%22;role+%3D+%22Aspiring+Full-Stack+Engineer%22;location+%3D+%22Madurai%2C+Tamil+Nadu%2C+India%22;os+%3D+%22Windows+11%22;ide+%3D+%22IntelliJ+IDEA+%2B+VS+Code%22;stack+%3D+%5BJava%2C+Spring+Boot%2C+React%5D;aiTools+%3D+%5BCopilot%2C+Gemini+AI%5D;learning+%3D+%5BSystem+Design%2C+Docker%5D;funFact+%3D+%22println()+before+debugger+%F0%9F%98%85%22;motto+%3D+%22Build.+Break.+Learn.+%E2%9A%A1%22" alt="About Me Typing"/>
 
 <br clear="right"/>
 
@@ -164,7 +130,7 @@ public class Prasath {
 
 <br/>
 
-> 💡 Currently seeking my first industry role. Reach out at **[prasath074335@gmail.com](mailto:prasath074335@gmail.com)**
+> 💡 Actively seeking my first industry role. Let's connect → **[prasath074335@gmail.com](mailto:prasath074335@gmail.com)**
 
 - 🔨 Built **2 full-stack production-grade projects** independently using `Java` `Spring Boot` `React.js` `Node.js` `MongoDB`
 - 📐 Designed RESTful APIs handling resume analytics and real-time video sessions with **WebRTC** + **Socket.io**
@@ -181,8 +147,8 @@ public class Prasath {
 
 | 🗂️ Project | ⚙️ Stack | 🚀 Highlights & Metrics | 🔗 |
 |-----------|---------|------------------------|-----|
-| [**ATS Resume Checker**](#) | Java · Spring Boot · HTML5 · CSS3 · REST APIs | Resume-to-JD keyword matching engine; real-time compatibility score; ATS logic boosts shortlisting rate by est. **40%**; scalable RESTful endpoints for resume analytics | [![Demo](https://img.shields.io/badge/Demo-Live-00FF88?style=flat-square)](#) |
-| [**Real-time Interview & Video Platform**](#) | React.js · Node.js · Express.js · MongoDB · WebRTC · Socket.io · Clerk · Monaco Editor | Full-stack MERN app with live video (WebRTC) + collaborative coding (Monaco Editor); real-time Java/Python/JS execution in browser; debounced socket events for **low-latency** screen sharing | [![Demo](https://img.shields.io/badge/Demo-Live-00FF88?style=flat-square)](#) |
+| [**ATS Resume Checker**](#) | Java · Spring Boot · HTML5 · CSS3 · REST APIs | Resume-to-JD keyword matching engine; real-time compatibility score; ATS logic boosts shortlisting rate by est. **40%** | [![Demo](https://img.shields.io/badge/Demo-Live-00FF88?style=flat-square)](#) |
+| [**Real-time Interview & Video Platform**](#) | React.js · Node.js · MongoDB · WebRTC · Socket.io · Monaco Editor | Live video (WebRTC) + collaborative coding; real-time Java/Python/JS execution; debounced sockets for **low-latency** sharing | [![Demo](https://img.shields.io/badge/Demo-Live-00FF88?style=flat-square)](#) |
 
 </div>
 
@@ -230,4 +196,4 @@ public class Prasath {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=fadeIn" width="100%"/>****
